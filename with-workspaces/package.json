@@ -1,0 +1,10 @@
+{
+  "name": "with-workspaces",
+  "private": true,
+  "main": "index.js",
+  "license": "MIT",
+  "workspaces": [
+    "p1",
+    "p2"
+  ]
+}
